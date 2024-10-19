@@ -9,23 +9,37 @@ def convert_to_json(input_file):
     with open(input_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     
-    # Process the lines in pairs
-    for i in range(0, len(lines), 2):
-        info_line = lines[i].strip()
-        url_line = lines[i+1].strip() if i+1 < len(lines) else ""
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        
+        # Skip lines that don't start with #EXTINF
+        if not line.startswith('#EXTINF'):
+            i += 1
+            continue
         
         # Extract the name using regex
-        name_match = re.search(r'tvg-name="([^"]+)"', info_line)
+        name_match = re.search(r'tvg-name="([^"]+)"', line)
         if name_match:
             name = name_match.group(1)
             
-            # Create a dictionary for the channel
-            channel = {
-                "name": name,
-                "url": url_line
-            }
+            # Look for the next non-empty line (should be the URL)
+            i += 1
+            while i < len(lines) and not lines[i].strip():
+                i += 1
             
-            channels.append(channel)
+            if i < len(lines):
+                url = lines[i].strip()
+                
+                # Create a dictionary for the channel
+                channel = {
+                    "name": name,
+                    "url": url
+                }
+                
+                channels.append(channel)
+        
+        i += 1
     
     # Convert the list of channels to JSON
     json_output = json.dumps(channels, ensure_ascii=False, indent=2)
