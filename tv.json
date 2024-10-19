@@ -1,10 +1,39 @@
 [
-  {
-    "name": "CCTV1",
-    "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8"
+   {
+    "name": "Shorty Wanna Ride",
+    "url": "https://r2cf.aipan.me/Young%20Buck%20-%20Shorty%20Wanna%20Ride%20(Dirty%20Version)%20(Official%20Music%20Video).mp4"
   },
   {
-    "name": "CCTV2",
-    "url": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8"
+    "name": "霍元甲.Fearless.2006",
+    "url": "https://alist.aipan.me/d/tianyi/%E5%BD%B1%E8%A7%86/%E9%9C%8D%E5%85%83%E7%94%B2.Fearless.2006.WEB-DL.4K.HEVC.AAC.%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97%5B3.9G%5D%5BMP4%5D%5B%E6%97%A0%E6%B0%B4%E5%8D%B0%5D.mp4?sign=9uUXtzbCXJqXYE9tLhYXiJXoUJwIkFzTFjNt1IZVNjo=:0"
+  },
+  {
+    "name": "CGTN英语",
+    "url": "https://0472.org/hls/cgtn.m3u8"
+     
+  },
+  {
+    "name": "CGTN记录",
+    "url": "https://0472.org/hls/cgtnd.m3u8"
+    
+  },
+  {
+    "name": "CGTN俄语",
+    "url": "https://0472.org/hls/cgtne.m3u8"
+    
+  },
+  {
+    "name": "CGTN法语",
+    "url": "https://0472.org/hls/cgtnf.m3u8"
+     
+  },
+  {
+    "name": "CGTN西语",
+    "url": "https://0472.org/hls/cgtnx.m3u8"
+     
+  },
+  {
+    "name": "CGTN阿语",
+    "url": "https://0472.org/hls/cgtna.m3u8"
   }
 ]
