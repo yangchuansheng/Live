@@ -16,4 +16,5 @@ jobs:
           path: Live
       - name: convert
         run: |
-          python3 convert.py Live/APTV.m3u
+          ls -lh Live/
+          python3 convert.py APTV.m3u
