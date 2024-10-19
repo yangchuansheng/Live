@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 18 * * *'
 
 jobs:
   Convert-to-json:
@@ -31,6 +33,6 @@ jobs:
             echo "No changes to commit"
             exit 0
           else
-            git commit -m "Add json"
+            git commit -m "Update json"
             git push
           fi
