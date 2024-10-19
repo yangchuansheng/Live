@@ -10,11 +10,13 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Checkout Live
+        uses: actions/checkout@v4
         with:
           repository: YueChan/Live
           path: Live
       - name: convert
         run: |
-          ls -lh Live/
-          python3 convert.py APTV.m3u
+          python3 convert.py Live/APTV.m3u
