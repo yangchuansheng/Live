@@ -72,18 +72,6 @@
     "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
   },
   {
-    "name": "凤凰中文",
-    "url": "http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8"
-  },
-  {
-    "name": "凤凰资讯",
-    "url": "http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8"
-  },
-  {
-    "name": "凤凰香港",
-    "url": "http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8"
-  },
-  {
     "name": "北京卫视",
     "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
   },
@@ -254,10 +242,6 @@
   {
     "name": "内蒙古农牧",
     "url": "https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800"
-  },
-  {
-    "name": "CHC高清电影",
-    "url": "http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D"
   },
   {
     "name": "CHC动作电影",
