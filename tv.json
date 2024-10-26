@@ -72,6 +72,10 @@
     "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
   },
   {
+    "name": "亚洲卫视",
+    "url": "https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8"
+  },
+  {
     "name": "北京卫视",
     "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
   },
@@ -270,10 +274,6 @@
   {
     "name": "动漫秀场",
     "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8"
-  },
-  {
-    "name": "南国都市",
-    "url": "https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de"
   },
   {
     "name": "newtv超级体育",
