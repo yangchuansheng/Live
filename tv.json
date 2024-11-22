@@ -1,5 +1,45 @@
 [
   {
+    "name": "cctv4k",
+    "url": "http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "cctv4",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "cctv4",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "cetv1",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "cetv4",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "cgtn英语",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000352/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "cgtn纪录",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000353/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "chc动作电影",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "chc家庭影院",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "CHC影迷电影",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId="
+  },
+  {
     "name": "北京卫视",
     "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8"
   },
@@ -108,6 +148,10 @@
     "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8"
   },
   {
+    "name": "兵团卫视",
+    "url": "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0"
+  },
+  {
     "name": "浙江公共新闻",
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
   },
@@ -172,52 +216,84 @@
     "url": "https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800"
   },
   {
+    "name": "SITV东方财经",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "SITV乐游",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "SITV",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002000/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "SITV劲爆体育",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "SITV法治天地",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "SITV",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002019/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "SITV都市剧场",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "SITV金色学堂",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002018/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "SITV",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002021/index.m3u8?IASHttpSessionId="
+  },
+  {
     "name": "上海纪实人文",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000528/index.m3u8"
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000333/index.m3u8?IASHttpSessionId="
   },
   {
-    "name": "纪实科教",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8"
-  },
-  {
-    "name": "劲爆体育",
-    "url": "http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281"
-  },
-  {
-    "name": "全纪实",
-    "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8"
-  },
-  {
-    "name": "欢笑剧场",
-    "url": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8"
-  },
-  {
-    "name": "都市剧场",
-    "url": "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8"
-  },
-  {
-    "name": "金色学堂",
-    "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8"
+    "name": "北京纪实科教",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000332/index.m3u8?IASHttpSessionId="
   },
   {
     "name": "金鹰纪实",
-    "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8"
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "金鹰卡通",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002027/index.m3u8?IASHttpSessionId="
   },
   {
     "name": "快乐垂钓",
-    "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8"
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8?IASHttpSessionId="
   },
   {
     "name": "茶",
-    "url": "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3"
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000649/index.m3u8?IASHttpSessionId="
   },
   {
-    "name": "游戏风云",
-    "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8"
+    "name": "北京卡酷少儿",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId="
   },
   {
-    "name": "动漫秀场",
-    "url": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8"
+    "name": "文物宝库",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "梨园",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000656/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "武术世界",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8?IASHttpSessionId="
+  },
+  {
+    "name": "精彩影视",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8?IASHttpSessionId="
   },
   {
     "name": "哒啵赛事",
@@ -242,6 +318,10 @@
   {
     "name": "睛彩青少",
     "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8"
+  },
+  {
+    "name": "睛彩广场舞",
+    "url": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8"
   },
   {
     "name": "newtv超级体育",
@@ -322,5 +402,9 @@
   {
     "name": "newtv炫舞未来",
     "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000098/index.m3u8"
+  },
+  {
+    "name": "中国交通",
+    "url": "http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000073/index.m3u8?IASHttpSessionId="
   }
 ]
