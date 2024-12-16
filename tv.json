@@ -9,11 +9,11 @@
   },
   {
     "name": "东方卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000518/index.m3u8"
+    "url": "http://[2409:8087:1a0a:df::402d]:80/wh7f454c46tw2920536473_465873356/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8?icpid=88888888&RTS=1713969749&from=4&hms_devid=1103&online=1713969749&vqe=3"
   },
   {
     "name": "四川卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000025/index.m3u8"
+    "url": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8"
   },
   {
     "name": "天津卫视",
@@ -21,7 +21,7 @@
   },
   {
     "name": "安徽卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000514/index.m3u8"
+    "url": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8"
   },
   {
     "name": "山东卫视",
@@ -37,7 +37,7 @@
   },
   {
     "name": "广西卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000034/index.m3u8"
+    "url": "http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000034"
   },
   {
     "name": "江苏卫视",
@@ -49,7 +49,7 @@
   },
   {
     "name": "河北卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000057/index.m3u8"
+    "url": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226406/index.m3u8"
   },
   {
     "name": "河南卫视",
@@ -61,31 +61,31 @@
   },
   {
     "name": "海南卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8"
+    "url": "http://[2409:8087:74f0:22::7]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000037"
   },
   {
     "name": "湖北卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000522/index.m3u8"
+    "url": "http://[2409:8087:1a0a:df::4016]:80/wh7f454c46tw2482810079_2015670374/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8?icpid=88888888&RTS=1713969311&from=4&hms_devid=992&online=1713969311&vqe=3"
   },
   {
     "name": "东南卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000519/index.m3u8"
+    "url": "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000550"
   },
   {
     "name": "贵州卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000036/index.m3u8"
+    "url": "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv"
   },
   {
     "name": "辽宁卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000526/index.m3u8"
+    "url": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226546/index.m3u8"
   },
   {
     "name": "重庆卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000517/index.m3u8"
+    "url": "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000517/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000608"
   },
   {
     "name": "黑龙江卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000521/index.m3u8"
+    "url": "http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226142/index.m3u8"
   },
   {
     "name": "内蒙古卫视",
@@ -93,7 +93,7 @@
   },
   {
     "name": "吉林卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8"
+    "url": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226397/2.m3u8"
   },
   {
     "name": "甘肃卫视",
@@ -101,43 +101,11 @@
   },
   {
     "name": "云南卫视",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8"
+    "url": "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000035/index.m3u8?"
   },
   {
     "name": "青海卫视",
     "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8"
-  },
-  {
-    "name": "浙江公共新闻",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
-  },
-  {
-    "name": "浙江国际",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
-  },
-  {
-    "name": "浙江少儿",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
-  },
-  {
-    "name": "浙江教科影视",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
-  },
-  {
-    "name": "之江纪录",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
-  },
-  {
-    "name": "浙江民生休闲",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
-  },
-  {
-    "name": "浙江经视",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
-  },
-  {
-    "name": "浙江钱江都市",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
   },
   {
     "name": "内蒙古综合",
@@ -193,7 +161,7 @@
   },
   {
     "name": "黑莓电影",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8"
+    "url": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225662/2.m3u8"
   },
   {
     "name": "睛彩竞技",
@@ -280,10 +248,6 @@
     "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000019/index.m3u8"
   },
   {
-    "name": "newtv金牌综艺",
-    "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000112/index.m3u8"
-  },
-  {
     "name": "newtv炫舞未来",
     "url": "http://[2409:8087:74d9:21::6]:80/270000001128/9900000098/index.m3u8"
   },
@@ -314,10 +278,6 @@
   {
     "name": "欢笑剧场",
     "url": "http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989"
-  },
-  {
-    "name": "古装剧场",
-    "url": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8"
   },
   {
     "name": "欢乐剧场",
